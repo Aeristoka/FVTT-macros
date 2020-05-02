@@ -30,8 +30,8 @@ new Dialog({
       <div class="form-group">
         <label>Roll Type:</label>
         <select id="attackRollType" name="attackRollType">
-            <option value="advantage" selected>Advantage</option>
-            <option value="normal">Normal</option>
+            <option value="advantage">Advantage</option>
+            <option value="normal" selected>Normal</option>
             <option value="disadvantage">Disadvantage</option>
         </select>
       </div>
