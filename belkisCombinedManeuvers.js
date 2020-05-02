@@ -301,7 +301,7 @@ new Dialog({
       if(!damageTypes[i].criticalDamage && i != 0 && i < damageTypes.length){
         allDamageString += " + ";
       }
-      if(!damageTypes[i].criticalDamage){~
+      if(!damageTypes[i].criticalDamage){
         allDamage += combinedDamage;
         allDamageString += combinedDamage;
       }
