@@ -418,7 +418,7 @@ new Dialog({
     //Critical Damge (if it exists)
     if(criticalHit){
       messageContent += `<div class="beyond20-roll-result">
-      <b>Total Damage: </b>
+      <b>Total Critical Damage: </b>
       <span class="beyond20-tooltip">
       <span class="beyond20-roll-detail-normal">
       ${allCriticalDamage}</span>
