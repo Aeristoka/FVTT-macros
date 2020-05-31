@@ -9,7 +9,7 @@ new Dialog({
           <option value="blackBear">Black Bear</option>
           <option value="brownBear">Brown Bear</option>
           <option value="cat">Cat</option>
-          <option value="caveBear">Cave Bear</option>
+          <option value="caveBear" selected>Cave Bear</option>
           <option value="giantSpider">Giant Spider</option>
           <option value="panther">Panther</option>
           <option value="rhinoceros">Rhinoceros</option>
