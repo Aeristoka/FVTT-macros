@@ -218,7 +218,7 @@ new Dialog({
             {
               damageType : "Superiority",
               dieCount : 1,
-              dieType : 8,
+              dieType : 10,
               hasDamageBonus : false,
               criticalDamage : false
             },
@@ -239,7 +239,7 @@ new Dialog({
             {
               damageType : "Superiority Critical",
               dieCount : 1,
-              dieType : 8,
+              dieType :10,
               hasDamageBonus : false,
               criticalDamage : true
             }
@@ -262,7 +262,7 @@ new Dialog({
             {
               damageType : "Superiority",
               dieCount : 1,
-              dieType : 8,
+              dieType : 10,
               hasDamageBonus : false
             }
           ];
@@ -275,7 +275,7 @@ new Dialog({
             {
               damageType : "Superiority",
               dieCount : 1,
-              dieType : 8,
+              dieType : 10,
               hasDamageBonus : false
             }
           ];
